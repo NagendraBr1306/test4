@@ -10,8 +10,9 @@ public class Test4Application {
 		string name = "mike",
 			int y = 200;
 			double x = 10.3;
+                        char ch = 'x';
                         boolean sub = true;
-		SpringApplication.run(Test4Application.class, args);
+           SpringApplication.run(Test4Application.class, args);
 	}
 
 }
