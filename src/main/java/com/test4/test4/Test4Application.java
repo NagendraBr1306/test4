@@ -12,6 +12,7 @@ public class Test4Application {
 			double x = 10.3;
                         char ch = 'x';
                         boolean sub = true;
+		                char cy = 'y';
            SpringApplication.run(Test4Application.class, args);
 	}
 
