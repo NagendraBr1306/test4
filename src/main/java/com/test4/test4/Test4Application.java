@@ -7,8 +7,16 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test4Application {
 
 	public static void main(String[] args) {
-		int y = 100;
+  int y = 100;
 		SpringApplication.run(Test4Application.class, args);
+    string name = "mike",
+		int y = 200;
+		double x = 10.3;
+    char ch = 'x';
+    boolean sub = true;
+		char cy = 'y';
+    SpringApplication.run(Test4Application.class, args);
+
 	}
 
 }
